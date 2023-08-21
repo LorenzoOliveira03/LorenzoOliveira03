@@ -1,8 +1,8 @@
 ### Hi there 👋
-### Olá, me chamo Lorenzo Turcato Oliveira! 
-### Bem vindo ao meu perfil GitHub 👋
-I’m currently working on Pet - informática(pucrs) ...
-🌱 I’m currently learning FRONTEND
+### Hello, My name is Lorenzo Turcato Oliveira! 
+### Welcome to my git hub profile 👋
+  - I’m currently working on Pet - informática(pucrs). 
+  - I’m currently learning FRONTEND.
 <!--
 **LorenzoOliveira03/LorenzoOliveira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
