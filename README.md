@@ -1,6 +1,7 @@
 
 ### Hi, i'm Lorenzo Turcato Oliveira 👋! 
-### Welcome to my git hub profile 👋
+### Welcome to my git hub profile 👋!
+![LorenzOliveira03 GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
   - I’m currently working on Pet - informática(pucrs). 
   - I’m currently learning FRONTEND
   - knowledge of java, python, typerscript, javascript and assembly languages.
