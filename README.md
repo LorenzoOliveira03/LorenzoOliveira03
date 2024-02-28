@@ -3,10 +3,10 @@
 ### Welcome to my git hub profile 👋
   - I’m currently working on Pet - informática(pucrs). 
   - I’m currently learning FRONTEND
+  - knowledge of java, python, typerscript, javascript and assembly languages.
+  - knowledge of power bi and scrum.
   - contact me Lorenzo.Olivera@edu.pucrs.br.
   - Information Systems Student at PUCRS.
-  - knowledge of java, python, typerscript, javascript and assembly languages.
-  - knowledge of power bi and scrum
 <!--
 **LorenzoOliveira03/LorenzoOliveira03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
