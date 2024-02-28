@@ -1,7 +1,5 @@
-
 ### Hi, i'm Lorenzo Turcato Oliveira 👋! 
 ### Welcome to my git hub profile 👋!
-![LorenzoOliveira03](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
   - I’m currently working on Pet - informática(pucrs). 
   - I’m currently learning FRONTEND
   - knowledge of java, python, typerscript, javascript and assembly languages.
@@ -13,7 +11,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Pet - informática(pucrs) ...
+-![LorenzoOliveira03]() 
+-🔭 I’m currently working on Pet - informática(pucrs) ...
 - 🌱 I’m currently learning FRONTEND ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
